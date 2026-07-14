@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.log
+loop-state/
+process/telemetry/
+docs/scores/
+.env
+.idea/
+.vscode/
