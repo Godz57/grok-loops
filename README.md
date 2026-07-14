@@ -76,6 +76,7 @@ Reinicie a sessão do Grok (ou confie no auto-reload de skills).
 | [grok-pentest](https://github.com/Godz57/grok-pentest) | Pentest / OWASP em apps vibe-coded |
 | [grok-strix](https://github.com/Godz57/grok-strix) | Wrapper Strix (PoC / Docker / multi-agent) |
 | [grok-cyber-skills](https://github.com/Godz57/grok-cyber-skills) | Router 817 skills (mode D) |
+| [grok-ai-memory](https://github.com/Godz57/grok-ai-memory) | Memória / handoff Grok+Pi |
 
 Loops automatizam **como o agente gira**; Superpowers **como planejar/entregar**; Craftsman **o que é proibido/medido** em cada linha.
 
