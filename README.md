@@ -4,6 +4,25 @@
 
 **5 tipos de loop + 1 loop de produção pronto + loop-architect** para especificar novos loops.
 
+## Start here
+
+Part of the [Godz57 Grok kit stack](https://github.com/Godz57/grok-tooling-playbook).  
+**New users** — install the playbook first, or the full stack in order:
+
+```powershell
+git clone https://github.com/Godz57/grok-tooling-playbook.git
+cd grok-tooling-playbook
+.\scripts\install-stack.ps1                 # Full
+.\scripts\install-stack.ps1 -Profile Core   # playbook + superpowers + craftsman
+```
+
+```bash
+./scripts/install-stack.sh
+./scripts/install-stack.sh core
+```
+
+[When to use what →](https://github.com/Godz57/grok-tooling-playbook#quick-routing)
+
 ## Por que loops
 
 Prompts únicos quebram em tarefas longas. Um **loop** define:
