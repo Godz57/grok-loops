@@ -73,6 +73,7 @@ Reinicie a sessão do Grok (ou confie no auto-reload de skills).
 |-----|--------|
 | [grok-superpowers](https://github.com/Godz57/grok-superpowers) | Processo: design → plan → TDD → verify |
 | [grok-craftsman](https://github.com/Godz57/grok-craftsman) | Polícia always-on: Clean Code, YAGNI, anti-patterns |
+| [grok-pentest](https://github.com/Godz57/grok-pentest) | Pentest / OWASP em apps vibe-coded |
 
 Loops automatizam **como o agente gira**; Superpowers **como planejar/entregar**; Craftsman **o que é proibido/medido** em cada linha.
 
