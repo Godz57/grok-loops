@@ -67,13 +67,14 @@ Reinicie a sessão do Grok (ou confie no auto-reload de skills).
 /loop-architect            # especificar loop novo
 ```
 
-## Companion: Superpowers (processo de eng)
+## Companions
 
-Metodologia design → TDD → verify no Grok:
+| Kit | Papel |
+|-----|--------|
+| [grok-superpowers](https://github.com/Godz57/grok-superpowers) | Processo: design → plan → TDD → verify |
+| [grok-craftsman](https://github.com/Godz57/grok-craftsman) | Polícia always-on: Clean Code, YAGNI, anti-patterns |
 
-**https://github.com/Godz57/grok-superpowers**
-
-Loops automatizam **como o agente gira**; Superpowers define **como engenharia e qualidade** entram em cada turno.
+Loops automatizam **como o agente gira**; Superpowers **como planejar/entregar**; Craftsman **o que é proibido/medido** em cada linha.
 
 ## Créditos
 
