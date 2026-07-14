@@ -67,6 +67,14 @@ Reinicie a sessão do Grok (ou confie no auto-reload de skills).
 /loop-architect            # especificar loop novo
 ```
 
+## Companion: Superpowers (processo de eng)
+
+Metodologia design → TDD → verify no Grok:
+
+**https://github.com/Godz57/grok-superpowers**
+
+Loops automatizam **como o agente gira**; Superpowers define **como engenharia e qualidade** entram em cada turno.
+
 ## Créditos
 
 - Arquitetura de loops: inspirada em *Types of Agent Loops* / AI Labs e no kit [giovani-junior-dev/loops](https://github.com/giovani-junior-dev/loops)
